@@ -1,0 +1,11 @@
+
+
+
+canvas
+{
+    border-style: 1px solid black;
+    position:absolute;
+    background-color: black;
+    display: block;
+    margin: 0 auto;
+}
